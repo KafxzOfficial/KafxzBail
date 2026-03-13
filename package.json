@@ -1,16 +1,16 @@
 {
-    "name": "ibnuxt/baileys",
+    "name": "KafxzOfficial/KafxzBail",
     "version": "1.7.3",
     "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/ibnuxt/baileys",
+    "homepage": "https://github.com/KafxzOfficial/KafxzBail",
     "repository": {
-        "url": "https://github.com/ibnuxt/baileys"
+        "url": "https://github.com/KafxzOfficial/KafxzBail"
     },
     "license": "MIT",
-    "author": "ibnuxt",
+    "author": "kafxz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
